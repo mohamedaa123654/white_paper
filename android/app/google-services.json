@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "803382714039",
+    "project_id": "algebraic-depot-308506",
+    "storage_bucket": "algebraic-depot-308506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803382714039:android:3b5523f56b6c0d5867b732",
+        "android_client_info": {
+          "package_name": "com.example.white_paper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803382714039-2k5bkidjsglar82jojvivjp8bdlv6027.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuZhsFUKBsMAI4xDAxITLf41U9cfmEayo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803382714039-2k5bkidjsglar82jojvivjp8bdlv6027.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "803382714039-1eudq5qarsrqo5ce25f4mbki9iqte5g8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
